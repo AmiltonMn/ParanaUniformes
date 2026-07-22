@@ -1,5 +1,5 @@
 // ---------- Configuração ----------
-const WHATSAPP_NUMBER = "5541998256176"; // +55 41 998256176 (somente números, com DDI)
+const WHATSAPP_NUMBER = "554137979956"; // +55 41 998256176 (somente números, com DDI)
 
 // ---------- Menu mobile ----------
 const burger = document.getElementById('burger');

@@ -639,7 +639,7 @@ section {
   font-size:0.7rem;
   letter-spacing:0.1em;
   font-weight: bold;
-  color:rgba(24,16,8,0.28);
+  color:rgba(24,16,8);
   text-transform:uppercase;
   animation:scroll 22s linear infinite;
 }
