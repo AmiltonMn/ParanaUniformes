@@ -80,10 +80,10 @@ const PORTFOLIO = [
   {
     id: "empresa-6",
     name: "Distribuidora Copo Cheio",
-    description: "Camisetas personalizadas",
+    description: "Blusas personalizadas",
     photos: [
-      { src: "images/portfolio/Copo Cheio Distribuidora/01.jpeg", alt: "Camiseta personalizada" },
-      { src: "images/portfolio/Copo Cheio Distribuidora/02.jpeg", alt: "Camiseta personalizada" },
+      { src: "images/portfolio/Copo Cheio Distribuidora/01.jpeg", alt: "Blusa personalizada" },
+      { src: "images/portfolio/Copo Cheio Distribuidora/02.jpeg", alt: "Blusa personalizada" },
     ]
   }
 ];
